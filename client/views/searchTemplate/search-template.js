@@ -24,6 +24,10 @@ Template.searchTemplate.events({
         template.searchModal.set('searchList',res);
       }
     });
+  },
+
+  'click .drug-card' : function(event, template){
+    $('#myModal').modal('show');
   }
 });
 

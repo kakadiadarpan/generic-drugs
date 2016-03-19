@@ -1,0 +1,100 @@
+@import "imports";
+
+.search-input{
+  margin: 50px 100px;
+
+  .search-drugs{
+    height: 2em;
+    line-height: 1.4em;
+    font-size: 3em;
+    color: #666;
+    font-weight: bold;
+  }
+}
+
+.search-result{
+  margin-top: 30px;
+}
+
+.drug-card{
+  border: 2px solid #ccc;
+  box-shadow: 0 0 1px #aaa;
+  border-radius: 4px;
+  display:block;
+  height: 450px;
+  padding: 20px 15px;
+  margin-bottom: 25px;
+  cursor: pointer;
+
+  .header-section{
+    margin-top: -20px;
+    border-bottom: 1px solid;
+    background: #e0e0d1;
+    font-weight: bold;
+  }
+
+
+}
+
+.f-s-18{
+  font-size: 22px;
+}
+
+.f-s-20{
+  font-size: 22px;
+}
+
+.f-s-22{
+  font-size: 22px;
+}
+
+.f-s-24{
+  font-size: 24px;
+}
+
+
+
+
+@include generate-margin-classes-for(-20);
+
+@include generate-margin-classes-for(0);
+
+@include generate-margin-classes-for(5);
+
+@include generate-margin-classes-for(10);
+
+@include generate-margin-classes-for(15);
+
+@include generate-margin-classes-for(20);
+
+@include generate-margin-classes-for(25);
+
+@include generate-margin-classes-for(30);
+
+@include generate-margin-classes-for(35);
+
+@include generate-margin-classes-for(40);
+
+@include generate-margin-classes-for(50);
+
+@include generate-margin-classes-for(60);
+
+@include generate-margin-classes-for(100);
+
+@include generate-padding-classes-for(0);
+
+@include generate-padding-classes-for(5);
+
+@include generate-padding-classes-for(10);
+
+@include generate-padding-classes-for(15);
+
+@include generate-padding-classes-for(20);
+
+@include generate-padding-classes-for(25);
+
+@include generate-padding-classes-for(30);
+
+@include generate-padding-classes-for(40);
+
+@include generate-padding-classes-for(50);

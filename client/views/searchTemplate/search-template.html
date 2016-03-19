@@ -1,14 +1,19 @@
 <template name="searchTemplate">
-  <div class="row">
-	  <div class="col col-xs-12">
+  <div class="container-fluid">
+  <div class="row search-input">
+	  <div class="col-xs-12">
 	  	<input class="form-control search-drugs" type="text" placeholder="Search drugs"/>
 	  </div>
   </div>
-  <div class="search-result">
-  	<ul>
-  	{{#each medicines}}
-  		<li>{{this.prod_name}}</li>
-  	{{/each}}	
-  	</ul>
+
+    <div class="search-result row">
+      {{> suggestionCard}}
+      {{> suggestionCard}}
+      {{> suggestionCard}}
+      {{> suggestionCard}}
+      {{> suggestionCard}}
+      {{> suggestionCard}}
+    </div>
   </div>
+  {{> drugDetails}}
 </template>

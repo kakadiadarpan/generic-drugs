@@ -1,0 +1,114 @@
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+  border-radius: $radius;
+}
+
+@mixin transition($props...){
+  -moz-transition: $props;
+  -ms-transition: $props;
+  -webkit-transition: $props;
+  transition: $props;
+}
+
+@mixin centered-image($maxWidth, $maxHeight, $position, $top, $bottom, $left, $right, $margin){
+  max-height:$maxWidth;
+  max-width:$maxHeight;
+  position:$position;
+  top:$top;
+  bottom:$bottom;
+  left:$left;
+  right:$right;
+  margin:$margin;
+}
+
+@mixin vertical-centered(){
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+@mixin radial-gradient($from, $to) {
+  background: -moz-radial-gradient(center, circle cover, $from 0%, $to 100%);
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, $from), color-stop(100%, $to));
+  background: -webkit-radial-gradient(center, circle cover, $from 0%, $to 100%);
+  background: -o-radial-gradient(center, circle cover, $from 0%, $to 100%);
+  background: -ms-radial-gradient(center, circle cover, $from 0%, $to 100%);
+  background: radial-gradient(center, circle cover, $from 0%, $to 100%);
+  background-color: $from;
+}
+
+
+@mixin transform($val){
+  -webkit-transform: $val;
+  -moz-transform:    $val;
+  -ms-transform:     $val;
+  -o-transform:      $val;
+  transform:         $val;
+}
+
+@mixin generate-margin-classes-for($i){
+  .m-#{$i}{
+    margin: #{$i}px ;
+  }
+
+  .m-t-#{$i}{
+    margin-top: #{$i}px ;
+  }
+
+  .m-b-#{$i}{
+    margin-bottom: #{$i}px ;
+  }
+
+  .m-t-b-#{$i}{
+    margin-top: #{$i}px ;
+    margin-bottom: #{$i}px ;
+  }
+
+  .m-l-#{$i}{
+    margin-left: #{$i}px ;
+  }
+
+  .m-r-#{$i}{
+    margin-right: #{$i}px ;
+  }
+
+  .m-l-r-#{$i}{
+    margin-left: #{$i}px ;
+    margin-right: #{$i}px ;
+  }
+}
+
+@mixin generate-padding-classes-for($i){
+  .p-#{$i}{
+    padding: #{$i}px ;
+  }
+
+  .p-t-#{$i}{
+    padding-top: #{$i}px ;
+  }
+
+  .p-b-#{$i}{
+    padding-bottom: #{$i}px ;
+  }
+
+  .p-t-b-#{$i}{
+    padding-top: #{$i}px ;
+    padding-bottom: #{$i}px ;
+  }
+
+  .p-l-#{$i}{
+    padding-left: #{$i}px ;
+  }
+
+  .p-r-#{$i}{
+    padding-right: #{$i}px ;
+  }
+
+  .p-l-r-#{$i}{
+    padding-left: #{$i}px ;
+    padding-right: #{$i}px ;
+  }
+}
