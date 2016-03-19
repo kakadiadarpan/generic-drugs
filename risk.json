@@ -1,0 +1,138 @@
+[
+  {
+    "id": "p_40",
+    "name": "Carbon monoxide source",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  },
+  {
+    "id": "p_39",
+    "name": "Contact with animals",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  },
+  {
+    "id": "p_41",
+    "name": "Contact with insecticides",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  },
+  {
+    "id": "p_36",
+    "name": "Contact with weed killers",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  },
+  {
+    "id": "p_38",
+    "name": "Frequent alcohol consumption",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  },
+  {
+    "id": "p_48",
+    "name": "Insect bite",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  },
+  {
+    "id": "p_53",
+    "name": "Joint or bone trauma",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  },
+  {
+    "id": "p_37",
+    "name": "Mushroom consumption",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  },
+  {
+    "id": "p_44",
+    "name": "NSAID or corticosteroid use",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  },
+  {
+    "id": "p_43",
+    "name": "Opioids use",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  },
+  {
+    "id": "p_25",
+    "name": "Paracetamol, acetaminophen intake",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  },
+  {
+    "id": "p_42",
+    "name": "Pregnancy",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  },
+  {
+    "id": "p_27",
+    "name": "Psychological trauma",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  },
+  {
+    "id": "p_47",
+    "name": "Recent hospitalization",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  },
+  {
+    "id": "p_26",
+    "name": "Salicylate intake",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  },
+  {
+    "id": "p_46",
+    "name": "Sedative or hypnotic withdrawal",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  },
+  {
+    "id": "p_45",
+    "name": "Taking sleeping pills or sedatives",
+    "category": "Risk factors",
+    "sex_filter": "both",
+    "image_url": null,
+    "image_source": null
+  }
+]

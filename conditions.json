@@ -1,0 +1,5227 @@
+[
+  {
+    "id": "c_537",
+    "name": "Abdominal obesity",
+    "categories": [
+      "Internal Medicine"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_547",
+    "name": "Abducens nerve palsy (VIth cranial nerve)",
+    "categories": [
+      "Ophthalmology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_306",
+    "name": "Acetaminophen poisoning",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_1",
+    "name": "Achalasia",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_111",
+    "name": "Acne",
+    "categories": [
+      "Dermatology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_259",
+    "name": "Acquired Immunodeficiency syndrome (AIDS), HIV infection",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_163",
+    "name": "Acromegaly",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_296",
+    "name": "Acute anticholinergic syndrome",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_72",
+    "name": "Acute bronchitis",
+    "categories": [
+      "Pulmonology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_187",
+    "name": "Acute cholinergic syndrome",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_191",
+    "name": "Acute hypnotic poisoning, intoxication",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_283",
+    "name": "Acute interstitial nephritis",
+    "categories": [
+      "Nephrology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_507",
+    "name": "Acute liver failure",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_70",
+    "name": "Acute lymphoblastic leukemia (ALL)",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_526",
+    "name": "Acute mastoiditis",
+    "categories": [
+      "Laryngology/ENT"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_71",
+    "name": "Acute myeloid leukemia (AML)",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_193",
+    "name": "Acute opioid (morphine, heroin) poisoning, intoxication",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_73",
+    "name": "Acute pancreatitis",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_168",
+    "name": "Acute porphyria",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_331",
+    "name": "Acute rheumatic fever",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_133",
+    "name": "Acute sinusitis",
+    "categories": [
+      "Laryngology/ENT"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_194",
+    "name": "Acute stimulant (amphetamine, cocaine) overdose",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_430",
+    "name": "Acute thyroiditis",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_270",
+    "name": "Adjustment disorder",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_160",
+    "name": "Adnexitis",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_57",
+    "name": "Adrenal insufficiency (Addison's disease)",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_535",
+    "name": "African trypanosomiasis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_366",
+    "name": "Agoraphobia",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_227",
+    "name": "Alcohol withdrawal syndrome",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_6",
+    "name": "Alcoholic liver disease",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_5",
+    "name": "Alcoholism",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_3",
+    "name": "Allergic conjunctivitis",
+    "categories": [
+      "Allergology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_4",
+    "name": "Allergic rhinitis",
+    "categories": [
+      "Allergology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_16",
+    "name": "Alzheimer's disease",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_243",
+    "name": "American trypanosomiasis (Chagas disease)",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_522",
+    "name": "Amoebiasis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_291",
+    "name": "Amyloidosis",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_396",
+    "name": "Amyotrophic lateral sclerosis",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_276",
+    "name": "Anal cancer",
+    "categories": [
+      "Oncology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_275",
+    "name": "Anal fissure",
+    "categories": [
+      "Surgery"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_290",
+    "name": "Ancylostomiasis (anchylostomiasis, ankylostomiasis, necatoriasis, hookworm disease)",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_372",
+    "name": "Anemia of chronic disease (ACD)",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_222",
+    "name": "Ankle osteoarthritis",
+    "categories": [
+      "Orthopedics"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_149",
+    "name": "Ankylosing spondylitis, Bechterew's disease",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_7",
+    "name": "Anorexia",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_198",
+    "name": "Antiphospholipid syndrome (APS, Hughes syndrome)",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_183",
+    "name": "Anxiety disorder with panic attacks",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_382",
+    "name": "Aplastic anemia",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_132",
+    "name": "Appendicitis",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_289",
+    "name": "Ascariasis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_8",
+    "name": "Asthma",
+    "categories": [
+      "Pulmonology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_542",
+    "name": "Atherogenic hyperlipidemia",
+    "categories": [
+      "Internal Medicine"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_2",
+    "name": "Atopic dermatitis (AD), Eczema",
+    "categories": [
+      "Allergology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_48",
+    "name": "Atrial fibrillation",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_567",
+    "name": "Autoimmune gastritis",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_485",
+    "name": "Autoimmune hepatitis (AIH)",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_482",
+    "name": "Autoimmune polyendocrine syndrome type 1 (APS-1)",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_483",
+    "name": "Autoimmune polyendocrine syndrome type 2 (Schmidt's syndrome)",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_484",
+    "name": "Autoimmune polyendocrine syndrome type 3",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_563",
+    "name": "Bacterial meningitis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_134",
+    "name": "Balanoposthitis",
+    "categories": [
+      "Urology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "male"
+  },
+  {
+    "id": "c_531",
+    "name": "Behçet's disease",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_504",
+    "name": "Beta-thalassemia",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_412",
+    "name": "Bilateral frontal lobe damage",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_419",
+    "name": "Bilateral temporal lobe damage",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_273",
+    "name": "Bipolar disorder",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_612",
+    "name": "Biventricular heart failure",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_185",
+    "name": "Bladder cancer",
+    "categories": [
+      "Urology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_184",
+    "name": "Bladder infection",
+    "categories": [
+      "Urology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_40",
+    "name": "Bleeding peptic ulcer",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_182",
+    "name": "Borreliosis (Lyme disease, Lyme borreliosis)",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_432",
+    "name": "Botulism",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_93",
+    "name": "Breast cancer",
+    "categories": [
+      "Oncology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_235",
+    "name": "Brucellosis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_524",
+    "name": "Budd-Chiari syndrome",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_14",
+    "name": "Bulimia",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_281",
+    "name": "Cannabinoid use",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_161",
+    "name": "Carbon monoxide poisoning",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_415",
+    "name": "Carcinoid syndrome",
+    "categories": [
+      "Oncology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_381",
+    "name": "Carotid artery dissection",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_451",
+    "name": "Carotid sinus syndrome",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_212",
+    "name": "Carpal tunnel syndrome",
+    "categories": [
+      "Orthopedics"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_242",
+    "name": "Cat scratch disease",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_176",
+    "name": "Cataract",
+    "categories": [
+      "Ophthalmology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_614",
+    "name": "Cavernous sinus thrombosis (CST)",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_15",
+    "name": "Celiac disease",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_379",
+    "name": "Cerebellar stroke",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_620",
+    "name": "Cerebellar tumor (medulloblastoma)",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_471",
+    "name": "Cerebellopontine angle syndrome",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_361",
+    "name": "Cerebral edema",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_114",
+    "name": "Cerebral stroke",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_129",
+    "name": "Cervicitis",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_171",
+    "name": "Chalazion",
+    "categories": [
+      "Ophthalmology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_68",
+    "name": "Chicken pox",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_481",
+    "name": "Chinese restaurant syndrome",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_215",
+    "name": "Cholecystitis",
+    "categories": [
+      "Surgery"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_38",
+    "name": "Choledocholisthiasis (gallstones, biliary colic)",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_254",
+    "name": "Cholera",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_557",
+    "name": "Choriocarcinoma",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_282",
+    "name": "Chronic cannabinoid use",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_512",
+    "name": "Chronic eosinophilic leukemia (CEL) and Idiopathic eosinophilia",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_373",
+    "name": "Chronic interstitial nephritis",
+    "categories": [
+      "Nephrology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_494",
+    "name": "Chronic intestinal ischemia",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_85",
+    "name": "Chronic lower limb ischemia",
+    "categories": [
+      "Angiology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_82",
+    "name": "Chronic lymphocytic leukemia (CLL)",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_83",
+    "name": "Chronic myelogenous leukemia (CML)",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_250",
+    "name": "Chronic obstructive jaundice",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_76",
+    "name": "Chronic obstructive pulmonary disease (COPD)",
+    "categories": [
+      "Pulmonology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_86",
+    "name": "Chronic pancreatitis",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_180",
+    "name": "Chronic renal failure",
+    "categories": [
+      "Nephrology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_269",
+    "name": "Chronic sinusitis",
+    "categories": [
+      "Laryngology/ENT"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_84",
+    "name": "Chronic venous insufficiency",
+    "categories": [
+      "Angiology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_267",
+    "name": "Churg-Strauss syndrome",
+    "categories": [
+      "Angiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_503",
+    "name": "Cirrhosis",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_39",
+    "name": "Cluster headaches",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_90",
+    "name": "Colon cancer (colorectal cancer)",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_87",
+    "name": "Common cold",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "common",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_172",
+    "name": "Conjunctivitis",
+    "categories": [
+      "Ophthalmology"
+    ],
+    "prevalence": "common",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_449",
+    "name": "Conn's syndrome, primary hyperaldosteronism",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_174",
+    "name": "Corneal abrasion",
+    "categories": [
+      "Ophthalmology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_175",
+    "name": "Corneal ulceration",
+    "categories": [
+      "Ophthalmology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_545",
+    "name": "Corticotropin releasing pituitary adenoma",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_327",
+    "name": "Crigler-Najjar syndrome",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_17",
+    "name": "Crohn's disease",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_141",
+    "name": "Cushing's syndrome",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_434",
+    "name": "Cysticercosis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_303",
+    "name": "Death cap poisoning",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_148",
+    "name": "Deep vein thrombosis (DVT)",
+    "categories": [
+      "Angiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_152",
+    "name": "Degeneration of the temporomandibular joint",
+    "categories": [
+      "Dentistry"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_576",
+    "name": "Degenerative disc disease of the cervical spine",
+    "categories": [
+      "Orthopedics"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_30",
+    "name": "Degenerative disc disease of the lumbar and sacral spine",
+    "categories": [
+      "Orthopedics"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_577",
+    "name": "Degenerative disc disease of the thoracic spine",
+    "categories": [
+      "Orthopedics"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_298",
+    "name": "Dehydration",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_260",
+    "name": "Dementia",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_245",
+    "name": "Dengue fever",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_79",
+    "name": "Dental caries",
+    "categories": [
+      "Dentistry"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_146",
+    "name": "Dental pulp gangrene",
+    "categories": [
+      "Dentistry"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_26",
+    "name": "Depression syndrome",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_315",
+    "name": "Dermatomyositis",
+    "categories": [
+      "Dermatology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_407",
+    "name": "Diabetes insipidus (DI)",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_404",
+    "name": "Diabetes mellitus type 1, type 1 diabetes, T1DM",
+    "categories": [
+      "Diabetology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_405",
+    "name": "Diabetes mellitus type 2, type 2 diabetes",
+    "categories": [
+      "Diabetology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_439",
+    "name": "Diabetic polyneuropathy, diabetic neuropathy",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_190",
+    "name": "Disulphiram-like reaction (severe alcohol intolerance)",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_186",
+    "name": "Diverticulitis",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_113",
+    "name": "Diverticulosis",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_325",
+    "name": "Dubin-Johnson syndrome",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_232",
+    "name": "Duodenal ulcer",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_435",
+    "name": "Echinococcosis (echinococcal disease)",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_240",
+    "name": "Ehrlichiosis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_492",
+    "name": "Empty sella syndrome",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_88",
+    "name": "Endometrial cancer",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_31",
+    "name": "Endometriosis",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_81",
+    "name": "Enlarged prostate",
+    "categories": [
+      "Urology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "male"
+  },
+  {
+    "id": "c_166",
+    "name": "Enterobiasis (Pinworms)",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_74",
+    "name": "Epilepsy",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_169",
+    "name": "Erysipelas",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_94",
+    "name": "Esophageal cancer",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_496",
+    "name": "Esophageal diverticula",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_421",
+    "name": "Essential thrombocytosis",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_29",
+    "name": "Essential tremor",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_28",
+    "name": "Extrasystoles",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_422",
+    "name": "Eye movement nerve palsy (paralysis of the third, fourth, and sixth cranial nerves)",
+    "categories": [
+      "Ophthalmology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_467",
+    "name": "Facial nerve palsy (VIIth cranial nerve)",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_426",
+    "name": "Fasciolosis, Fascioliasis, Fasciolasis, distomatosis, liver rot",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_80",
+    "name": "Fatigue",
+    "categories": [
+      "Internal Medicine"
+    ],
+    "prevalence": "common",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_569",
+    "name": "Felon/whitlow",
+    "categories": [
+      "Surgery"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_138",
+    "name": "Food poisoning",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "common",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_223",
+    "name": "Foot osteoarthritis",
+    "categories": [
+      "Orthopedics"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_65",
+    "name": "Gall bladder and bile duct cancer",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_66",
+    "name": "Gastric cancer",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_231",
+    "name": "Gastric ulcer",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_515",
+    "name": "Gastritis",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_559",
+    "name": "Gastritis due to Helicobacter pylori infection",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_560",
+    "name": "Gastritis due to NSAID or corticosteroid use",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_101",
+    "name": "Gastroesophageal reflux disease (GERD), Acid reflux disease",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_225",
+    "name": "General anxiety disorder",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_534",
+    "name": "Genital herpes",
+    "categories": [
+      "Genitourinary medicine"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_12",
+    "name": "Genital warts",
+    "categories": [
+      "Dermatology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_532",
+    "name": "Gestational diabetes",
+    "categories": [
+      "Diabetology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_165",
+    "name": "Giardiasis (Beaver fever)",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_34",
+    "name": "Gilbert's syndrome (Hereditary hyperbilirubinemia)",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_120",
+    "name": "Gingivitis",
+    "categories": [
+      "Dentistry"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_447",
+    "name": "Gitelman syndrome, familial hypokalemia-hypomagnesemia",
+    "categories": [
+      "Nephrology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_173",
+    "name": "Glaucoma",
+    "categories": [
+      "Ophthalmology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_374",
+    "name": "Glomerulonephritis, glomerular nephritis (GN)",
+    "categories": [
+      "Nephrology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_247",
+    "name": "Glossitis (inflammation of the tongue)",
+    "categories": [
+      "Internal Medicine"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_476",
+    "name": "Glossopharyngeal nerve palsy (IXth cranial nerve)",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_159",
+    "name": "Gonorrhea",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_464",
+    "name": "Goodpasture's syndrome",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_27",
+    "name": "Gout",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_264",
+    "name": "Granulomatosis with polyangiitis (Wegener's granulomatosis)",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_427",
+    "name": "Graves' disease",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_314",
+    "name": "Guillain-Barré syndrome",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_219",
+    "name": "Hand osteoarthritis",
+    "categories": [
+      "Orthopedics"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_428",
+    "name": "Hashimoto's thyroiditis (chronic lymphocytic thyroiditis)",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_424",
+    "name": "Heat illness, Heat-related illness (Heat stroke)",
+    "categories": [
+      "Other"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_328",
+    "name": "Hemochromatosis",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_60",
+    "name": "Hemolytic anemia",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_606",
+    "name": "Hemolytic-uremic syndrome (HUS)",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_514",
+    "name": "Hemophagocytic lymphohistiocytosis (HLH), hemophagocytic syndrome",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_386",
+    "name": "Hemophilia A",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_387",
+    "name": "Hemophilia B",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_371",
+    "name": "Hemorrhagic anemia",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_147",
+    "name": "Hemorrhoids",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_463",
+    "name": "Henoch-Schönlein purpura",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_590",
+    "name": "Hepatic abscess",
+    "categories": [
+      "Surgery"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_443",
+    "name": "Hepatic encephalopathy",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_44",
+    "name": "Hepatic failure or cirrhosis",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_285",
+    "name": "Hepatitis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_477",
+    "name": "Hepatitis A",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_478",
+    "name": "Hepatitis B",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_479",
+    "name": "Hepatitis C",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_294",
+    "name": "Herbicide poisoning",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_67",
+    "name": "Herpes simplex",
+    "categories": [
+      "Dermatology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_465",
+    "name": "High altitude sickness (acute mountain sickness)",
+    "categories": [
+      "Other"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_221",
+    "name": "Hip osteoarthritis",
+    "categories": [
+      "Orthopedics"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_77",
+    "name": "Hives (urticaria)",
+    "categories": [
+      "Dermatology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_181",
+    "name": "Hodgkin's lymphoma",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_287",
+    "name": "Horner's syndrome",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_525",
+    "name": "Hydrocele testis",
+    "categories": [
+      "Urology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_53",
+    "name": "Hyperandrogenism",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_51",
+    "name": "Hyperparathyroidism",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_50",
+    "name": "Hypertension",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_461",
+    "name": "Hypertensive emergency, malignant hypertension",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_462",
+    "name": "Hypertensive encephalopathy",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_52",
+    "name": "Hyperthyroidism",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_446",
+    "name": "Hypoglycemia",
+    "categories": [
+      "Internal Medicine"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_58",
+    "name": "Hypoparathyroidism",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_196",
+    "name": "Hypopituarism",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_35",
+    "name": "Hypotension",
+    "categories": [
+      "Internal Medicine"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_59",
+    "name": "Hypothyroidism",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_489",
+    "name": "Idiopathic pulmonary fibrosis",
+    "categories": [
+      "Pulmonology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_139",
+    "name": "Impacted wisdom tooth",
+    "categories": [
+      "Dentistry"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_42",
+    "name": "Impetigo",
+    "categories": [
+      "Dermatology"
+    ],
+    "prevalence": "common",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_195",
+    "name": "Improper use of sleeping pills and sedatives",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_332",
+    "name": "Increased intracranial pressure",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_36",
+    "name": "Infectious arthritis",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_10",
+    "name": "Infectious diarrhea",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "common",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_200",
+    "name": "Infectious mononucleosis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_206",
+    "name": "Infective endocarditis",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_33",
+    "name": "Influenza",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "common",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_408",
+    "name": "Insulinoma",
+    "categories": [
+      "Oncology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_520",
+    "name": "Intercostal neuralgia",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_62",
+    "name": "Iron deficiency anemia (IDA)",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_142",
+    "name": "Irritable bowel syndrome (IBS)",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_18",
+    "name": "Ischemic heart disease",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_115",
+    "name": "Joint or bone trauma",
+    "categories": [
+      "Orthopedics"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_92",
+    "name": "Kidney cancer",
+    "categories": [
+      "Nephrology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_37",
+    "name": "Kidney stones (renal colic)",
+    "categories": [
+      "Nephrology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_420",
+    "name": "Klüver-Bucy bitemporal syndrome",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_220",
+    "name": "Knee osteoarthritis",
+    "categories": [
+      "Orthopedics"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_347",
+    "name": "Korsakoff's syndrome, Korsakoff's dementia, Amnesic-confabulatory syndrome",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_91",
+    "name": "Laryngeal cancer",
+    "categories": [
+      "Laryngology/ENT"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_123",
+    "name": "Laryngitis",
+    "categories": [
+      "Laryngology/ENT"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_246",
+    "name": "Lassa fever",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_406",
+    "name": "Latent autoimmune diabetes of adults (LADA)",
+    "categories": [
+      "Diabetology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_553",
+    "name": "Lateral medullary syndrome (Wallenberg syndrome, posterior inferior cerebellar artery syndrome)",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_410",
+    "name": "Left frontal lobe damage",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_211",
+    "name": "Left-sided heart failiure",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_272",
+    "name": "Legionellosis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_313",
+    "name": "Leriche's syndrome",
+    "categories": [
+      "Angiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_99",
+    "name": "Liver cancer",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_64",
+    "name": "Lung cancer",
+    "categories": [
+      "Pulmonology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_413",
+    "name": "Malaria",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_274",
+    "name": "Manic syndrome",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_513",
+    "name": "Mastocytosis",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_286",
+    "name": "Measles",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_469",
+    "name": "Mediastinitis",
+    "categories": [
+      "Pulmonology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_25",
+    "name": "Melanoma",
+    "categories": [
+      "Oncology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_151",
+    "name": "Meningitis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_45",
+    "name": "Menopause",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_619",
+    "name": "Methyl alcohol (methanol) poisoning",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_605",
+    "name": "Microangiopathic hemolytic anemia (MAHA)",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_510",
+    "name": "Microscopic polyangiitis",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_383",
+    "name": "Middle cerebral artery syndrome, Middle cerebral artery stroke",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_49",
+    "name": "Migraine",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_41",
+    "name": "Mild Cognitive Impairment (MCI)",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_323",
+    "name": "Milk-alkali syndrome (Burnett's syndrome)",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_511",
+    "name": "Mixed connective tissue disease",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_414",
+    "name": "Molar pregnancy",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_575",
+    "name": "Mononeuritis multiplex",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_188",
+    "name": "Mucoviscidosis (cystic fibrosis)",
+    "categories": [
+      "Pulmonology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_498",
+    "name": "Multiple Endocrine Neoplasia Type 1 (MEN1), Wermer's syndrome",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_499",
+    "name": "Multiple endocrine neoplasia type 2A (MEN2A), Sipple's syndrome",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_500",
+    "name": "Multiple endocrine neoplasia type 2B (MEN2B)",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_179",
+    "name": "Multiple myeloma",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_108",
+    "name": "Multiple sclerosis",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_192",
+    "name": "Mumps (epidemic parotitis)",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_46",
+    "name": "Myasthenia gravis",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_423",
+    "name": "Myelofibrosis, Myeloid metaplasia",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_140",
+    "name": "Myocardial infarction, Heart attack",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_210",
+    "name": "Myocarditis",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_203",
+    "name": "Ménière's disease",
+    "categories": [
+      "Laryngology/ENT"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_164",
+    "name": "Ménétrier's disease (hyperplastic hypersecretory gastropathy)",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_107",
+    "name": "Nephritis",
+    "categories": [
+      "Nephrology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_265",
+    "name": "Nephrotic syndrome",
+    "categories": [
+      "Nephrology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_63",
+    "name": "Nicotine dependence",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_364",
+    "name": "No ST Elevation Myocardial Infarction",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_440",
+    "name": "Nose polyps",
+    "categories": [
+      "Laryngology/ENT"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_536",
+    "name": "Obesity",
+    "categories": [
+      "Internal Medicine"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_118",
+    "name": "Obsessive-compulsive disorder",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_248",
+    "name": "Obstructive jaundice",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_549",
+    "name": "Oculomotor nerve palsy (IIIrd cranial nerve)",
+    "categories": [
+      "Ophthalmology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_125",
+    "name": "Orchitis and epididymitis",
+    "categories": [
+      "Urology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "male"
+  },
+  {
+    "id": "c_350",
+    "name": "Organic personality disorder",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_337",
+    "name": "Osteomalacia",
+    "categories": [
+      "Internal Medicine"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_533",
+    "name": "Osteomyelitis",
+    "categories": [
+      "Orthopedics"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_69",
+    "name": "Osteoporosis",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_131",
+    "name": "Otitis externa",
+    "categories": [
+      "Laryngology/ENT"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_162",
+    "name": "Otitis internal (Labirynthitis)",
+    "categories": [
+      "Laryngology/ENT"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_130",
+    "name": "Otitis media",
+    "categories": [
+      "Laryngology/ENT"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_89",
+    "name": "Ovarian cancer",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_321",
+    "name": "Paget's disease of bone",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_11",
+    "name": "Painful menstruation (dysmenorrhea)",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_617",
+    "name": "Pancoast tumor",
+    "categories": [
+      "Pulmonology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_98",
+    "name": "Pancreatic cancer",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_75",
+    "name": "Paradontosis",
+    "categories": [
+      "Dentistry"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_310",
+    "name": "Paranoid schizophrenia",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_19",
+    "name": "Parkinson's disease",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_529",
+    "name": "Paronychia",
+    "categories": [
+      "Surgery"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_445",
+    "name": "Paroxysmal nocturnal hemoglobinuria",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_20",
+    "name": "Peptic ulcer",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_126",
+    "name": "Pericarditis",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_56",
+    "name": "Peripheral neuropathy",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_324",
+    "name": "Pernicious anemia, Biermer's anemia",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_295",
+    "name": "Pesticide poisoning",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_121",
+    "name": "Pharyngitis",
+    "categories": [
+      "Laryngology/ENT"
+    ],
+    "prevalence": "common",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_207",
+    "name": "Pheochromocytoma",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_543",
+    "name": "Pituitary prolactin releasing adenoma (prolactinoma)",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_544",
+    "name": "Pituitary somatotropin releasing tumor",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_334",
+    "name": "Pituitary tumor",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_558",
+    "name": "Placental site trophoblastic tumour",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_271",
+    "name": "Plague",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_392",
+    "name": "Platelet disorders (thrombocytopathy)",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_341",
+    "name": "Plummer-Vinson syndrome, sideropenic dysphagia",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_127",
+    "name": "Pneumonia",
+    "categories": [
+      "Pulmonology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_458",
+    "name": "Polyarteritis nodosa",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_145",
+    "name": "Polycystic ovary syndrome",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_251",
+    "name": "Polycythemia vera",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_317",
+    "name": "Polymyositis",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_299",
+    "name": "Post-traumatic stress disorder",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_351",
+    "name": "Postconcussional syndrome",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_309",
+    "name": "Postpartum depression",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_369",
+    "name": "Pre-eclampsia (gestosis)",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_22",
+    "name": "Pregnancy",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_143",
+    "name": "Premenstrual syndrome",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_486",
+    "name": "Primary biliary cirrhosis (PBC)",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_488",
+    "name": "Primary sclerosing cholangitis (PSC)",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_497",
+    "name": "Prinzmetal's angina",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_397",
+    "name": "Progressive supranuclear palsy (PSP), Steele-Richardson-Olszewski syndrome",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_335",
+    "name": "Prostate cancer",
+    "categories": [
+      "Urology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_122",
+    "name": "Prostatitis",
+    "categories": [
+      "Urology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "male"
+  },
+  {
+    "id": "c_571",
+    "name": "Pseudo-Tetany",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_390",
+    "name": "Pseudobulbar palsy",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_380",
+    "name": "Pseudobulbar syndrome with acute vestibulopathy",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_444",
+    "name": "Pseudomembranous colitis",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_263",
+    "name": "Psittacosis (parrot disease, ornithosis)",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_43",
+    "name": "Psoriasis",
+    "categories": [
+      "Dermatology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_318",
+    "name": "Psychotic depression",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_319",
+    "name": "Psychotic mania",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_288",
+    "name": "Pulmonary edema",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_136",
+    "name": "Pulmonary embolism",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_493",
+    "name": "Pulmonary hypertension",
+    "categories": [
+      "Pulmonology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_124",
+    "name": "Pulpitis",
+    "categories": [
+      "Dentistry"
+    ],
+    "prevalence": "common",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_540",
+    "name": "Pure hypercholesterolaemia",
+    "categories": [
+      "Internal Medicine"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_541",
+    "name": "Pure hypertriglyceridemia",
+    "categories": [
+      "Internal Medicine"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_284",
+    "name": "Pyelonephritis",
+    "categories": [
+      "Nephrology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_241",
+    "name": "Q fever",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_468",
+    "name": "Ramsay Hunt syndrome type II",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_209",
+    "name": "Raynaud's phenomenon",
+    "categories": [
+      "Dermatology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_100",
+    "name": "Reactive arthritis",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_262",
+    "name": "Reiter's syndrome",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_237",
+    "name": "Relapsing fever",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_362",
+    "name": "Respiratory failure",
+    "categories": [
+      "Pulmonology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_596",
+    "name": "Retinal detachment",
+    "categories": [
+      "Ophthalmology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_593",
+    "name": "Retinopathy",
+    "categories": [
+      "Ophthalmology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_104",
+    "name": "Rheumatoid arthritis",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_252",
+    "name": "Rift Valley fever  (RVF)",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_411",
+    "name": "Right frontal lobe damage",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_418",
+    "name": "Right temporal lobe damage",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_572",
+    "name": "Right-sided heart failure",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_239",
+    "name": "Rocky Mountain spotted fever (RMSF)",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_326",
+    "name": "Rotor syndrome",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_189",
+    "name": "Rubella (German measles)",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_365",
+    "name": "ST Elevation Myocardial Infarction",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_307",
+    "name": "Salicylate poisoning",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_105",
+    "name": "Sarcoidosis",
+    "categories": [
+      "Pulmonology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_311",
+    "name": "Schizoaffective disorder - depressive type",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_312",
+    "name": "Schizoaffective disorder - manic type",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_102",
+    "name": "Sciatica",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_257",
+    "name": "Scrub typhus (Bush typhus)",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_340",
+    "name": "Scurvy",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_320",
+    "name": "Seasonal affective disorder (winter depression, seasonal depression)",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_453",
+    "name": "Seborrheic dermatitis",
+    "categories": [
+      "Dermatology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_106",
+    "name": "Sexual addiction",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_521",
+    "name": "Shigellosis, Bacillary dysentery",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_78",
+    "name": "Shingles",
+    "categories": [
+      "Dermatology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_588",
+    "name": "Sickle cell anemia",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_144",
+    "name": "Sjögren's syndrome",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_9",
+    "name": "Sleep apnea",
+    "categories": [
+      "Pulmonology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_466",
+    "name": "Small intestinal bacterial overgrowth",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_308",
+    "name": "Social anxiety disorder",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_370",
+    "name": "Specific phobia",
+    "categories": [
+      "Psychiatry"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_218",
+    "name": "Spinal osteoarthritis",
+    "categories": [
+      "Orthopedics"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_249",
+    "name": "Streptococcal pharyngitis (strep throat)",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_116",
+    "name": "Stress incontinence",
+    "categories": [
+      "Urology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_170",
+    "name": "Stye",
+    "categories": [
+      "Ophthalmology"
+    ],
+    "prevalence": "common",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_135",
+    "name": "Superficial phlebitis",
+    "categories": [
+      "Angiology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_505",
+    "name": "Syndrome of inappropriate antidiuretic hormone secretion (SIADH)",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_109",
+    "name": "Systemic lupus erythematosus (SLE)",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_112",
+    "name": "Systemic scleroderma",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_452",
+    "name": "Takayasu's disease (Takayasu's arteritis)",
+    "categories": [
+      "Internal Medicine"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_459",
+    "name": "Temporal giant cell arteritis (GCA)",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_437",
+    "name": "Teniasis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_55",
+    "name": "Tension-type headaches",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "common",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_519",
+    "name": "Testicular cancer",
+    "categories": [
+      "Urology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_523",
+    "name": "Testicular torsion",
+    "categories": [
+      "Urology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_255",
+    "name": "Tetanus",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_208",
+    "name": "Tetany",
+    "categories": [
+      "Internal Medicine"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_618",
+    "name": "Thoracic outlet syndrome (TOS)",
+    "categories": [
+      "Angiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_597",
+    "name": "Thrombotic thrombocytopenic purpura (TTP, Moschcowitz syndrome)",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_472",
+    "name": "Thymoma",
+    "categories": [
+      "Oncology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_546",
+    "name": "Thyreotropin releasing pituitary adenoma",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_97",
+    "name": "Thyroid cancer",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_429",
+    "name": "Thyrotoxicosis",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_436",
+    "name": "Toxocariasis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_378",
+    "name": "Transient ischemic attack (TIA)",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_433",
+    "name": "Trichinosis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_103",
+    "name": "Trichomoniasis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_438",
+    "name": "Trichuriasis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_473",
+    "name": "Trigeminal nerve damage (Vth cranial nerve)",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_150",
+    "name": "Trigeminal neuralgia",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_548",
+    "name": "Trochlear nerve palsy (IVth cranial nerve)",
+    "categories": [
+      "Ophthalmology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_32",
+    "name": "Tuberculosis",
+    "categories": [
+      "Pulmonology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_570",
+    "name": "Tuberculous meningitis (TBM)",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_236",
+    "name": "Tularemia",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_330",
+    "name": "Tumor lysis syndrome",
+    "categories": [
+      "Oncology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_202",
+    "name": "Type 1 Neurofibromatosis",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_574",
+    "name": "Type 2 Neurofibromatosis",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_234",
+    "name": "Typhoid, Typhoid fever",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_238",
+    "name": "Typhus or Epidemic typhus",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_23",
+    "name": "Ulcerative colitis",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_409",
+    "name": "Unilateral frontal lobe damage",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_292",
+    "name": "Urethritis",
+    "categories": [
+      "Urology"
+    ],
+    "prevalence": "common",
+    "acuteness": "acute",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_54",
+    "name": "Urge incontinence",
+    "categories": [
+      "Urology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_119",
+    "name": "Urinary tract infection",
+    "categories": [
+      "Nephrology"
+    ],
+    "prevalence": "common",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_96",
+    "name": "Uterine cancer",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_47",
+    "name": "Uterine fibroids",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_216",
+    "name": "Uveitis",
+    "categories": [
+      "Ophthalmology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_480",
+    "name": "VIPoma, Verner-Morrison syndrome",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_128",
+    "name": "Vaginitis",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_554",
+    "name": "Vagus nerve palsy (Xth cranial nerve)",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_391",
+    "name": "Vascular hemorrhagic diathesis",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_316",
+    "name": "Vasculitis",
+    "categories": [
+      "Rheumatology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_384",
+    "name": "Vertebrobasilar insufficiency",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_470",
+    "name": "Vestibulocochlear nerve damage (VIIIth cranial nerve)",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_562",
+    "name": "Viral meningitis",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_214",
+    "name": "Visceral leishmaniasis (kala-azar, black fever)",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_61",
+    "name": "Vitamin B12 deficiency anemia",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "moderate",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_388",
+    "name": "Von Willebrand disease",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_95",
+    "name": "Vulvar cancer",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "moderate",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_110",
+    "name": "Vulvar cysts",
+    "categories": [
+      "Gynecology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "mild",
+    "sex_filter": "female"
+  },
+  {
+    "id": "c_400",
+    "name": "Waldenström's macroglobulinemia",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_13",
+    "name": "Warts",
+    "categories": [
+      "Dermatology"
+    ],
+    "prevalence": "common",
+    "acuteness": "acute_potentially_chronic",
+    "severity": "mild",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_300",
+    "name": "Water poisoning",
+    "categories": [
+      "Cardiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_256",
+    "name": "Weil's syndrome (Leptospirosis)",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_376",
+    "name": "Wernicke's encephalopathy",
+    "categories": [
+      "Neurology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_475",
+    "name": "Whipple's disease",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_205",
+    "name": "Wilson's disease",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_268",
+    "name": "Wiskott-Aldrich syndrome",
+    "categories": [
+      "Hematology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "moderate",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_278",
+    "name": "Withdrawal syndrome (sedatives)",
+    "categories": [
+      "Toxicology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_244",
+    "name": "Yellow fever",
+    "categories": [
+      "Infectiology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_213",
+    "name": "Zollinger-Ellison syndrome, gastrinoma",
+    "categories": [
+      "Gastroenterology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "chronic_with_exacerbations",
+    "severity": "severe",
+    "sex_filter": "both"
+  },
+  {
+    "id": "c_431",
+    "name": "de Quervain's thyroiditis (subacute granulomatous thyroiditis, Giant Cell Thyroiditis)",
+    "categories": [
+      "Endocrinology"
+    ],
+    "prevalence": "very_rare",
+    "acuteness": "acute",
+    "severity": "moderate",
+    "sex_filter": "both"
+  }
+]

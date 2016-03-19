@@ -1,0 +1,14 @@
+<template name="searchSymptoms">
+  <div class="row">
+    <div class="col col-xs-12">
+      <input class="form-control search-drugs" type="text" placeholder="Search drugs"/>
+    </div>
+  </div>
+  <div class="search-result">
+    <ul class="symptom-list">
+      {{#each symptoms}}
+        <li data-symp-id="{{this.id}}" class="list-item">{{this.name}}</li>
+      {{/each}}
+    </ul>
+  </div>
+</template>
