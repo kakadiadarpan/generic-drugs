@@ -7,28 +7,26 @@ Meteor.methods({
 	searchDrugs: function(query, options){
 		var drugs, regexQuery;
 		if(!query){
-			return Products.find({drugname:{
+			return DrugList.find({name:{
 		        $regex:query,
 		        $options:'i'
-		      }},{$sort:{drugname:1},limit:50}).fetch()
+		      }},{$sort:{name:1},limit:50}).fetch()
 		} else {
 			regexQuery = lodash.escapeRegExp(query);
-			drugs = Products.find({drugname:{
+			drugs = DrugList.find({name:{
 		        $regex:regexQuery,
 		        $options:'i'
-		      }},{$sort:{drugname:1},limit:50}).fetch()
+		      }},{$sort:{name:1},limit:50}).fetch()
 		}
-
-		if(drugs.length>0){
 			return drugs;
-		} else {
+		/* else {
 			drugs = Meteor.call('getData', query, '5');
 			return drugs.map(function(obj){
 				return {
 					prod_name:obj.suggestion
 				};
 			});
-		}
+		}*/
 	},
 
 	getData: function(query, limit) {
@@ -85,7 +83,7 @@ Meteor.methods({
 	},
 
 	getDrugDetails: function(drugId){
-		return drugId ? Products.find({_id:drugId}).fetch() : {};
+		return drugId ? DrugList.find({_id:drugId}).fetch() : {};
 	},
 
 	getSimilarDrugDetailsByParams: function(searchBy, searchKey){

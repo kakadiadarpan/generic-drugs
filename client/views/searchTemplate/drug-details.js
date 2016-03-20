@@ -10,7 +10,7 @@ Template.drugDetails.helpers({
 
 	getDrugBankId: function (argument) {
 		var data = this;
-		return 'http://www.drugbank.ca/drugs/' + data['drugbank-id'][0]['#text'];
+		//return 'http://www.drugbank.ca/drugs/' + data['drugbank-id'][0]['#text'];
 	},
 
 	getCreated: function (argument) {
