@@ -4,10 +4,53 @@
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-          <h4 class="modal-title">Drug Name: {{getDetail.drugName}}</h4>
+          <h4 class="modal-title">Drug Name: <a href="{{getDrugBankId}}">{{this.name}}</a></h4>
+          <small>Drug created on {{getCreated}} / Drug updated on {{getUpdated}}</small>
         </div>
         <div class="modal-body">
           <div class="detailed-drug-information">
+
+            <div class="header row">
+              <div class="col-xs-12">
+                <strong>Identification</strong>
+              </div>
+            </div>
+
+            <div class="row cursor-pointer">
+              <div class="accession-number col-xs-4">
+                Accession Number
+              </div>
+              <div class="accession-number col-xs-8">
+                {{getNumbers.primary}} ({{getNumbers.other}})
+              </div>
+            </div>
+
+            <div class="row cursor-pointer">
+              <div class="type col-xs-4">
+                Type
+              </div>
+              <div class="type col-xs-8">
+                {{this.type}}
+              </div>
+            </div>
+
+            <div class="row cursor-pointer">
+              <div class="groups col-xs-4">
+                Type
+              </div>
+              <div class="groups col-xs-8">
+                {{getGroups}}
+              </div>
+            </div>
+
+            <div class="row cursor-pointer">
+              <div class="manufactured-by col-xs-4">
+                Description
+              </div>
+              <div class="manufacturer-name col-xs-8">
+                {{this.description}}
+              </div>
+            </div>
 
             <div class="row cursor-pointer">
               <div class="manufactured-by col-xs-4">
@@ -20,7 +63,7 @@
 
             <div class="row cursor-pointer">
               <div class="manufactured-by col-xs-4">
-                Marketing Authorixation folder
+                Marketing Authorization folder
               </div>
               <div class="manufacturer-name col-xs-8">
                 : {{getDetail.ProductMktStatus}}
@@ -38,7 +81,7 @@
 
             <div class="row cursor-pointer">
               <div class="manufactured-by col-xs-4">
-                Dosage Form
+                Dosage
               </div>
               <div class="manufacturer-name col-xs-8">
                 : {{getDetail.Dosage}}
@@ -47,7 +90,7 @@
 
             <div class="row cursor-pointer">
               <div class="manufactured-by col-xs-4">
-                Dosage Form
+                Form
               </div>
               <div class="manufacturer-name col-xs-8">
                 : {{getDetail.Form}}
