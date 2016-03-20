@@ -1,17 +1,22 @@
 Template.searchTemplate.helpers({
   medicines: function(){
     return Template.instance().searchModal.get('searchList');
-  }
+  },
   /*searchDrugs: function(query, sync){
     return Products.find({prod_name:{
         $regex:query,
         $options:'i'
       }}).fetch()
   }*/
+
+  getSearchCards: function(){
+    var searchArr = Template.instance().searchModal.get('searchList');
+    return searchArr.length > 0 ? searchArr : [];
+  }
 });
 
 Template.searchTemplate.events({
-  'keydown .search-drugs': function(event, template){
+  'keyup .search-drugs': function(event, template){
     var query = event.currentTarget.value;
     if(!lodash.isEmpty(query)){
       template.isSearch.set(true);
@@ -27,7 +32,13 @@ Template.searchTemplate.events({
   },
 
   'click .drug-card' : function(event, template){
-    $('#myModal').modal('show');
+    var drugId = event.currentTarget.dataset.drugId;
+    Meteor.call('getDrugDetails', drugId, function(err, res){
+      if(res){
+        Session.set('drugDetailsForModal',res);
+        $('#myModal').modal('show');
+      }
+    });
   }
 });
 
@@ -40,11 +51,12 @@ Template.searchTemplate.created = function(){
 
   instance.searchModal = new ReactiveDict();
   instance.searchModal.set('searchList',[]);
+  instance.searchModal.set('drugDetailedView','');
   instance.isSearch = new ReactiveVar();
   instance.isSearch.set(false);
-  Meteor.call('searchDrugs','',function (err,res) {
+  /*Meteor.call('searchDrugs','',function (err,res) {
       if(res && res.length>0){
         instance.searchModal.set('searchList',res);
       }
-    });
+    });*/
 }
