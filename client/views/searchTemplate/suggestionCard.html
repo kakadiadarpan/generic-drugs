@@ -1,6 +1,5 @@
 <template name="suggestionCard">
   <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-    {{console this}}
     <div class="drug-card" data-drug-id="{{this._id}}">
       <div class="row">
         <div class="header-section col-xs-12 p-t-15 p-b-15">
@@ -11,7 +10,7 @@
           <div class=" row active-ingredient text-center m-10 f-s-16">
             <i class="glyphicon glyphicon-star col-xs-2"></i>
             <span class="ingredient-text col-xs-10">
-              {{this.mixtures.mixture.ingredients}} : {{this.mixtures.mixture.name}}
+              {{getIngredients}} : {{getMixture}}
             </span>
           </div>
           <div class="row strength text-center m-10 f-s-16">
