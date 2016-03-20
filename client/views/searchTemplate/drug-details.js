@@ -57,5 +57,45 @@ Template.drugDetails.helpers({
 			synonym.push(data['synonyms']['synonym'][i]['#text']);
 		}
 
+	},
+
+	getCreatedDate: function(){
+		var data = this._created;
+		return data ? data : '';
+	},
+
+	getUpdatedDate: function(){
+		var data = this_.updated;
+		return data ? data : '';
+	},
+
+	getTargets : function (){
+		var data = this.targets;
+		return !(_.isEmpty(data)) ? data.target : {};
+	},
+
+	getExteralLinks : function(){
+		var data = this['external-links'];
+		return !(_.isEmpty(data)) ? data['external-link'] : {};
+	},
+
+	getExternalIdentifiers : function(){
+		var data = this['external-identifiers'];
+		return !(_.isEmpty(data)) ? data['external-identifier'] : {};
+	},
+
+	getExperimentalProperties: function(){
+		var data = this['experimental-properties'];
+		return !(_.isEmpty(data)) ? data['property'] : {};
+	},
+
+	getPatents : function(){
+		var data = this['patents'];
+		return !(_.isEmpty(data)) ? data['patent'] : {};
+	},
+
+	getDosageForm: function(){
+		var data = this['dosages'];
+		return !(_.isEmpty(data)) ? data['dosage'] : {};
 	}
 })
